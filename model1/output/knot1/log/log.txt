@@ -1,0 +1,1320 @@
+Total PN iteration count:  17 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  31 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  47 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  69 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  89 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  104 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  119 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  153 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  168 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  182 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  223 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  240 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  255 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  302 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  319 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  347 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  380 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  398 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  426 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  483 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  499 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  514 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  530 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  545 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  571 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  585 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  600 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  612 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  625 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  641 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  658 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  668 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  679 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  698 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  720 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  744 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  769 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  803 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  932 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  950 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  974 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  999 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  1023 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  1048 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  1078 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  1105 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  1232 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  1266 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  1308 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  1345 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  1368 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  1479 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  1529 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  1576 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  1610 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  1635 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  1803 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  1847 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  1961 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  2019 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  2052 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  2101 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  2227 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  2281 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  2303 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  2338 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  2433 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  2493 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  2529 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  2593 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  2677 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  2727 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  2763 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  2780 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  4609 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  4681 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  6422 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  6516 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  6831 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  6898 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  7009 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  7076 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  7107 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  7151 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  7167 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  7226 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  7235 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  7244 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  7255 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  7270 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  7281 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  7291 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  7303 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  7313 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  7323 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  7334 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  7345 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  7353 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  7361 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  7368 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  7412 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  7457 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  7495 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  7514 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  7544 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  7598 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  7677 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  8602 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  8776 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  9361 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  9473 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  10899 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  11027 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  11190 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  11559 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  12470 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  13000 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  13051 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  13116 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  13149 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  13189 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  13230 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  13257 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  13279 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  13313 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  13350 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  13396 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  13439 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  13462 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  13497 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  13584 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  13608 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  13633 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  13677 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  13731 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  13787 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  13808 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  13827 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  13848 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  13873 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  13921 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  13944 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  13962 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  13996 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  14024 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  14073 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  14120 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  14144 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  14261 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  14298 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  14323 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  14381 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  14403 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  14445 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  14468 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  14502 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  14515 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  14529 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  14542 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  14571 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  14590 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  14607 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  14622 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  14640 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  14658 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  14673 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  14689 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  14704 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  14720 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  14738 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  14758 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  14780 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  14835 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  14897 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  14926 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  14954 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  14986 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  15007 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  15040 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  15087 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  15130 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  15192 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  15233 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  15273 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  15310 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  15330 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  15348 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  15371 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  15397 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  15414 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  15426 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  15435 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  15451 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  15461 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  15485 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  15505 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  15527 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  15545 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  15575 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  15629 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  15649 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  15663 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  15691 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  15717 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  15736 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  15754 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  15766 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  15780 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  15806 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  15822 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  15839 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  15856 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  15876 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  15895 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  15913 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  15924 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  15939 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  15962 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  15982 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  15997 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  16020 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16030 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16050 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16062 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16071 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16091 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16100 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16110 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16120 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16129 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  16138 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  16148 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16166 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16180 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16191 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16199 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16210 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16220 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16235 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16245 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16255 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  16265 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  16277 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16297 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16308 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16334 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16362 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16382 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16410 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16429 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16462 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16468 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  16481 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  16521 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16531 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16550 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16562 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16569 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16583 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16602 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16616 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16632 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16646 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  16659 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  16672 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16688 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16697 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16707 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16731 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16741 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16754 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16767 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16777 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16794 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  16806 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  16818 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16829 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16838 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16856 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16868 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16879 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16888 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16897 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16913 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16924 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  16929 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  16940 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16958 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16969 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16979 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16988 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  16999 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17009 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17019 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17028 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17034 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  17046 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  17056 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17066 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17076 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17084 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17095 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17106 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17119 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17129 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17139 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17145 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  17154 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  17165 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17176 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17187 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17198 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17209 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17222 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17231 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17243 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17254 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17259 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  17270 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  17275 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17285 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17295 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17300 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17308 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17313 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17321 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17333 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17348 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17360 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  17365 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  17375 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17389 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17400 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17411 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17422 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17434 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17446 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17459 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17471 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17475 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  17485 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  17497 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17504 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17509 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17520 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17529 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17540 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17551 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17556 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17567 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17572 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  17581 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  17591 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17599 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17609 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17620 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17635 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17656 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17661 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17678 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17685 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17691 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  17699 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  17705 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17716 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17731 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17743 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17751 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17763 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17779 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17791 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17805 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17810 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  17824 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  17829 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17838 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17851 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17858 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17863 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17870 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17877 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17884 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17891 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17895 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  17899 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  17910 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17914 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17924 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17928 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17941 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17954 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17967 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17979 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  17992 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  18010 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  18014 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  18027 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  18043 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  18058 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  18070 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  18084 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  18095 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  18104 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  18112 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  18123 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  18130 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  18143 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  18150 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  18155 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  18172 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  18178 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  18192 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  18200 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  18206 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  18213 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  18224 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  18231 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  18240 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  18248 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  18253 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  18274 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  18279 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  18291 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  18305 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  18313 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  18333 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  18345 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  18350 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  18355 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  18377 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  18382 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  18393 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  18408 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  18417 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  18430 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  18434 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  18454 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  18466 
+
+Advance dt with 1.00e-02
+Total PN iteration count:  18470 
+
+Advance dt with 5.00e-03
+Total PN iteration count:  18474 
+
+Advance dt with 5.00e-03

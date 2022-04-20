@@ -1,0 +1,326 @@
+Total PN iteration count:  17 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  35 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  55 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  74 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  94 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  110 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  125 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  148 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  169 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  191 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  214 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  236 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  259 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  281 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  302 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  327 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  346 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  365 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  384 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  402 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  427 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  449 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  471 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  494 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  518 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  543 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  567 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  590 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  615 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  638 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  661 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  685 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  709 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  733 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  754 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  781 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  806 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  830 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  854 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  880 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  906 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  931 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  955 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  980 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  1002 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  1025 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  1047 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  1068 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  1088 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  1109 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  1131 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  1150 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  1168 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  1186 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  1206 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  1226 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  1251 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  1270 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  1288 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  1307 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  1326 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  1344 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  1367 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  1385 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  1402 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  1420 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  1439 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  1456 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  1477 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  1497 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  1522 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  1541 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  1574 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  1599 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  1626 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  1650 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  1676 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  1706 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  1732 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  1767 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  1794 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  1832 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  1871 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  1899 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  1956 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  1992 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  2040 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  2131 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  2175 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  2231 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  2278 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  2329 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  2392 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  2435 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  2463 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  2508 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  2586 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  2633 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  2639 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  2682 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  2693 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  2819 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  2847 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  2866 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  2879 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  2890 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  2909 
+
+Advance dt with 5.00e-02
+Total PN iteration count:  2917 
+
+Advance dt with 5.00e-02
+5.0
+5.45
